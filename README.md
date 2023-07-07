@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/mgullo/LABURL)
+- [Active Directory Home Lab](https://github.com/mgullo/ActiveDirectoryLab)
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
